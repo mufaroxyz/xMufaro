@@ -30,6 +30,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## Discord
 
@@ -48,5 +49,5 @@
 
 ## Profile views
 
-![:aikocount](https://count.getloli.com/get/@xMufaro?theme=rule34)
-<sub style="opacity: 50%;">Inspired by [aiko](https://github.com/aiko-chan-ai)<sub>
+![:aikocount](https://count.getloli.com/get/@xMufaro?theme=rule34) <br>
+<sub> Inspired by [aiko](https://github.com/aiko-chan-ai)<sub>
